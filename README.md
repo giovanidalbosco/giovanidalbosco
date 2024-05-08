@@ -1,8 +1,6 @@
 ### Hi there, I'm Giovani👋
 
-- 🔭 I'm currently looking for an opportunity to join the on job market.
-- 🌱 I’m currently learning JAVA for WEB development using Spring FrameWork.
-- 👯 I have collaborative experience with Python programming focused on backend in Django.
+- 🔭 I'm currently working with Web Development at Neomind!
 - 📫 How to reach me:
 <div> 
   <a href = "mailto:giovani.dalbosco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
